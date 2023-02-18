@@ -1,0 +1,5 @@
+Loss function = f(x_i)
+Step size = f(x_i) * Learning rate(0.01)
+new b = b - Step size
+
+Minimum Step size = 0.001
